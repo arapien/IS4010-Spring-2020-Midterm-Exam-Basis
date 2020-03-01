@@ -15,6 +15,6 @@ def read_CSV_file(filename):
             csv_data.append(row)
     
     #print(csv_data)
-    print (type(csv_data))      # It's a list of lists!
+    #print (type(csv_data))      # It's a list of lists!
     return csv_data
 
